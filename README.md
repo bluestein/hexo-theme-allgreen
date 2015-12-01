@@ -31,5 +31,13 @@ cd themes/allgreen
 git pull
 ```
 
+### Features
+
+- instead **disqus** by **[duoshuo][3]**
+- [Weiboshow][4] supported
+- Chinese supported
+
 [1]: http://hexo.io/
 [2]: http://bluestein.github.io/
+[3]: http://duoshuo.com/
+[4]: http://app.weibo.com/tool/weiboshow
